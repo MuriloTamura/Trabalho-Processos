@@ -141,14 +141,6 @@ Se precisar instalar o `reportlab`:
 python -m pip install reportlab
 ```
 
-## Geração de PDF
-
-O projeto também pode incluir material de apoio em PDF para apresentação da Questão 2. Quando disponível, a geração pode ser feita com:
-
-```powershell
-python gerar_pdf.py
-```
-
 ## Conceitos Aplicados
 
 Este trabalho exercita os seguintes conceitos:
