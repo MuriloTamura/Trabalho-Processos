@@ -129,6 +129,10 @@ Para interromper a Questão 2, use:
 ```powershell
 Ctrl + C
 ```
+## Questão 3
+```powershell
+python questao3.py
+```
 
 ## Requisitos
 
